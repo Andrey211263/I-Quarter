@@ -1,0 +1,15 @@
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\bin\Debug\net6.0\I_quarter.exe
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\bin\Debug\net6.0\I_quarter.deps.json
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\bin\Debug\net6.0\I_quarter.runtimeconfig.json
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\bin\Debug\net6.0\I_quarter.dll
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\bin\Debug\net6.0\I_quarter.pdb
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\obj\Debug\net6.0\I_quarter.csproj.AssemblyReference.cache
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\obj\Debug\net6.0\I_quarter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\obj\Debug\net6.0\I_quarter.AssemblyInfoInputs.cache
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\obj\Debug\net6.0\I_quarter.AssemblyInfo.cs
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\obj\Debug\net6.0\I_quarter.csproj.CoreCompileInputs.cache
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\obj\Debug\net6.0\I_quarter.dll
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\obj\Debug\net6.0\refint\I_quarter.dll
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\obj\Debug\net6.0\I_quarter.pdb
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\obj\Debug\net6.0\I_quarter.genruntimeconfig.cache
+D:\Мои документы\Home\Обучение\Домашние задания\I_quarter\obj\Debug\net6.0\ref\I_quarter.dll
